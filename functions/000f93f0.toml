@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386810Z
+addr = 0xf93f0
+size = 0x3d
+name = "CNetworkSystem_GetUDPPort"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_GetUDPPort"
+addr = 0xf93f0
+type = "long long"
+
+[header.args]

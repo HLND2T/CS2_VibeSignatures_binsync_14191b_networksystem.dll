@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386644Z
+addr = 0xa0030
+size = 0x8
+name = "CNetworkMessages_IsAdditionalMessageRegistrationAllowed"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_IsAdditionalMessageRegistrationAllowed"
+addr = 0xa0030
+type = "long long"
+
+[header.args]

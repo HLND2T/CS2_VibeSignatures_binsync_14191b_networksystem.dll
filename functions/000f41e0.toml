@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:02.475026Z
+addr = 0xf41e0
+size = 0x89d
+name = "CNetworkSystem_InitNetworkSystem"
+type = "char"
+
+[header]
+name = "CNetworkSystem_InitNetworkSystem"
+addr = 0xf41e0
+type = "char"
+
+[header.args]

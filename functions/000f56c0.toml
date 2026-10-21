@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386791Z
+addr = 0xf56c0
+size = 0x5
+name = "CNetworkSystem_GetLocalAdr"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_GetLocalAdr"
+addr = 0xf56c0
+type = "long long"
+
+[header.args]

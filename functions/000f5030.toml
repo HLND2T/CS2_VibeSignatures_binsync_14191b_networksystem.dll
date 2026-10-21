@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386790Z
+addr = 0xf5030
+size = 0x172
+name = "CNetworkSystem_ShutdownGameServer"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_ShutdownGameServer"
+addr = 0xf5030
+type = "long long"
+
+[header.args]

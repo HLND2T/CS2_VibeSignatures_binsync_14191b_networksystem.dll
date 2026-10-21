@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:02.490368Z
+addr = 0xf6710
+size = 0x2e2
+name = "CNetworkSystem_RemoveNetChannel"
+type = "void"
+
+[header]
+name = "CNetworkSystem_RemoveNetChannel"
+addr = 0xf6710
+type = "void"
+
+[header.args]

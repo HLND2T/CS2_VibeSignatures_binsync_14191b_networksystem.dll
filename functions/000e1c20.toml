@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:02.456581Z
+addr = 0xe1c20
+size = 0x124
+name = "CNetworkMessages_FindNetworkGroup"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_FindNetworkGroup"
+addr = 0xe1c20
+type = "long long"
+
+[header.args]

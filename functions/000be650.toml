@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386654Z
+addr = 0xbe650
+size = 0xad
+name = "CNetChan_SendMessages"
+type = "long long"
+
+[header]
+name = "CNetChan_SendMessages"
+addr = 0xbe650
+type = "long long"
+
+[header.args]

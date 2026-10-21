@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:02.416767Z
+addr = 0xdec50
+size = 0x1bd
+name = "CNetworkMessages_AssociateNetMessageGroupIdWithChannelCategory"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_AssociateNetMessageGroupIdWithChannelCategory"
+addr = 0xdec50
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386748Z
+addr = 0xdeb30
+size = 0x112
+name = "CNetworkMessages_AssociateNetMessageWithChannelCategoryAbstract"
+type = "long long"
+
+[header]
+name = "CNetworkMessages_AssociateNetMessageWithChannelCategoryAbstract"
+addr = 0xdeb30
+type = "long long"
+
+[header.args]

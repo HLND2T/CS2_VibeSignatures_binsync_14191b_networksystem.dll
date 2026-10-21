@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386809Z
+addr = 0xf9040
+size = 0x21e
+name = "CNetworkSystem_CloseSocket"
+type = "char"
+
+[header]
+name = "CNetworkSystem_CloseSocket"
+addr = 0xf9040
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386766Z
+addr = 0xe13d0
+size = 0x2f6
+name = "CNetworkMessages_SerializeInternal"
+type = "char"
+
+[header]
+name = "CNetworkMessages_SerializeInternal"
+addr = 0xe13d0
+type = "char"
+
+[header.args]

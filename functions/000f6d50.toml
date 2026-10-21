@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386800Z
+addr = 0xf6d50
+size = 0x12
+name = "CNetworkSystem_PutScratchBuffer"
+type = "void"
+
+[header]
+name = "CNetworkSystem_PutScratchBuffer"
+addr = 0xf6d50
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386783Z
+addr = 0xf1080
+size = 0x8
+name = "CNetworkSystem_GetSteamNetworkingSockets"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_GetSteamNetworkingSockets"
+addr = 0xf1080
+type = "long long"
+
+[header.args]

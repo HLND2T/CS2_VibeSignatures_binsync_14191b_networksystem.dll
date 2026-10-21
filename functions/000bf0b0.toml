@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:02.384581Z
+addr = 0xbf0b0
+size = 0xde7
+name = "CNetChan_ParseMessagesDemoInternal"
+type = "long long"
+
+[header]
+name = "CNetChan_ParseMessagesDemoInternal"
+addr = 0xbf0b0
+type = "long long"
+
+[header.args]

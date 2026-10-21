@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386648Z
+addr = 0xbd510
+size = 0x1d0
+name = "CNetChan_Transmit"
+type = "long long"
+
+[header]
+name = "CNetChan_Transmit"
+addr = 0xbd510
+type = "long long"
+
+[header.args]

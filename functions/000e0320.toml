@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:02.425427Z
+addr = 0xe0320
+size = 0x2be
+name = "CNetworkMessages_RegisterNetworkFieldChangeCallbackInternal"
+type = "void"
+
+[header]
+name = "CNetworkMessages_RegisterNetworkFieldChangeCallbackInternal"
+addr = 0xe0320
+type = "void"
+
+[header.args]

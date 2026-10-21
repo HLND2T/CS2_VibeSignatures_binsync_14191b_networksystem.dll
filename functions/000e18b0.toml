@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386771Z
+addr = 0xe18b0
+size = 0x1ee
+name = "CNetworkMessages_UnserializeFromStream"
+type = "void (__fastcall ***)(unsigned long long, long long)"
+
+[header]
+name = "CNetworkMessages_UnserializeFromStream"
+addr = 0xe18b0
+type = "void (__fastcall ***)(unsigned long long, long long)"
+
+[header.args]

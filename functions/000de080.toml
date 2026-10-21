@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386740Z
+addr = 0xde080
+size = 0x17
+name = "CNetworkMessages_GetNetMessageInfo"
+type = "void *"
+
+[header]
+name = "CNetworkMessages_GetNetMessageInfo"
+addr = 0xde080
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-21T10:41:01.386797Z
+addr = 0xf6d00
+size = 0x50
+name = "CNetworkSystem_GetScratchBuffer"
+type = "long long"
+
+[header]
+name = "CNetworkSystem_GetScratchBuffer"
+addr = 0xf6d00
+type = "long long"
+
+[header.args]
